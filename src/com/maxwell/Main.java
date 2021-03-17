@@ -13,6 +13,8 @@ public class Main {
     if (number % 5 == 0)
         System.out.println("HiFive");
     //Check even
+    if (number % 2 == 0)
+        System.out.println("HiEven");
 
     }
 }
