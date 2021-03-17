@@ -1,12 +1,13 @@
 package com.maxwell;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-
     //Enter input
-
+    Scanner input = new Scanner(System.in);
+    System.out.print("Enter an integer: ");
     //Check
 
     //Check even
